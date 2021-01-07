@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/hardik-kgp/hardik-kgp.github.io.git
+	branch = main
